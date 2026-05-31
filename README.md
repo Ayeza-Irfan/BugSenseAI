@@ -47,8 +47,8 @@ Follow these steps to run BugSense locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Ayeza-Irfan/bugsense-ai.git
-cd bugsense-ai
+git clone https://github.com/Ayeza-Irfan/BugSenseAI.git
+cd BugSenseAI
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
